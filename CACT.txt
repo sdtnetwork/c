@@ -1,0 +1,2 @@
+socks://c2R0bmV0d29yazg6c2R0bmV0d29yazhAbXkxLmNhY3R1c3NzdHAuY29tOjEwODA?obfs=none
+socks://c2R0bmV0d29yazg6c2R0bmV0d29yazhAZnIxLmNhY3R1c3NzdHAuY29tOjEwODA?obfs=none
